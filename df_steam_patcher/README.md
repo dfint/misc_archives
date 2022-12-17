@@ -13,8 +13,8 @@ Later I'll add posibility to create csv file using [df-translation-client](https
 Some useful key combinations for translators:
 
 1. <kbd>CTRL</kbd>+<kbd>F1</kbd> - activates autoupdate of text in the game when csv file is modified;
-2. <kbd>CTRL</kbd>+<kbd>F2</kbd>  - deactivates the previous option;
-3. <kbd>CTRL</kbd>+<kbd>F3</kbd>  - switches the translation off;
+2. <kbd>CTRL</kbd>+<kbd>F2</kbd> - deactivates the previous option;
+3. <kbd>CTRL</kbd>+<kbd>F3</kbd> - switches the translation off;
 3. <kbd>CTRL</kbd>+<kbd>F4</kbd> - switches the translation on and updates the translation from the csv file.
 
 When you press any of these combinations, you'll get a message box with a message saing that the action is completed successfully.
