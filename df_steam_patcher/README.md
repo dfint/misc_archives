@@ -1,6 +1,6 @@
 # Patcher for Dwarf Fortress.exe of steam version of DF
 
-How to use: just unpack df-steam-translate-hook.zip to the game's directory and run df-steam-hook-launcher.exe file. It will run the game with translation applied.
+How to use: just unpack `df-steam-translate-hook.zip` to the game's directory and run `df-steam-hook-launcher.exe` file. It will run the game with translation applied.
 
 For your language you'll need to prepare csv file from the [hardcoded_steam.po resource on transifex](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam/hardcoded_steam/). The package contains csv file for Esperanto encoded into latin3 encoding.
 
@@ -17,6 +17,6 @@ Some useful key combinations for translators:
 3. <kbd>CTRL</kbd>+<kbd>F3</kbd>  - switches the translation off;
 3. <kbd>CTRL</kbd>+<kbd>F4</kbd> - switches the translation on and updates the translation from the csv file.
 
-When you press any of these combinations, you'll have a message box with a message saing that the action is completed successfully.
+When you press any of these combinations, you'll get a message box with a message saing that the action is completed successfully.
 
 Sometimes the message appears on the background behind the game window, so you need to find it and press OK in it.
