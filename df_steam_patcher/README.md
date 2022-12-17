@@ -17,6 +17,5 @@ Some useful key combinations for translators:
 3. <kbd>CTRL</kbd>+<kbd>F3</kbd> - switches the translation off;
 3. <kbd>CTRL</kbd>+<kbd>F4</kbd> - switches the translation on and updates the translation from the csv file.
 
-When you press any of these combinations, you'll get a message box with a message saing that the action is completed successfully.
-
+When you use the first two of these combinations, you'll get a message box with a message saing that the action is completed successfully.
 Sometimes the message appears on the background behind the game window, so you need to find it and press OK in it.
