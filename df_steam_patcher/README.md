@@ -1,6 +1,13 @@
 # Patcher for Dwarf Fortress.exe of steam version of DF
 
-How to use: just unpack `df-steam-translate-hook.zip` to the game's directory and run `df-steam-hook-launcher.exe` file. It will run the game with translation applied.
+## Update 2022-12-23
+
+- Fixed crash on a global map, probably some other crashes are also fixed
+- Only a version for DF 0.50.3 is available yet, but it seems that it also works on 0.50.4
+
+## How to use
+
+Just unpack `df-steam-translate-hook.zip` to the game's directory and run `df-steam-hook-launcher.exe` file. It will run the game with translation applied.
 
 For your language you'll need to prepare csv file from the [hardcoded_steam.po resource on transifex](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam/hardcoded_steam/). The package contains csv file for Esperanto encoded into latin3 encoding.
 
@@ -10,7 +17,7 @@ Also you'll probably need to modify `curses_640x300.png` font in the `data/art` 
 
 Later I'll add posibility to create csv file using [df-translation-client](https://github.com/dfint/df-translation-client).
 
-Some useful key combinations for translators:
+## Some useful key combinations for translators:
 
 1. <kbd>CTRL</kbd>+<kbd>F1</kbd> - activates autoupdate of text in the game when csv file is modified;
 2. <kbd>CTRL</kbd>+<kbd>F2</kbd> - deactivates the previous option;
