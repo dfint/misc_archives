@@ -3,7 +3,7 @@
 ## Update 2022-12-23
 
 - Fixed crash on a global map, probably some other crashes are also fixed
-- Only a version for DF 0.50.3 is available yet, but it seems that it also works on 0.50.4
+- Only a version for DF 50.3 is available yet, but it seems that it also works on 50.4
 
 ## How to use
 
