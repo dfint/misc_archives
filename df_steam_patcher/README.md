@@ -1,5 +1,13 @@
 # Patcher for Dwarf Fortress.exe of steam version of DF
 
+## Update 2023-01-13
+
+There is a new patch project: <https://github.com/dfint/df-steam-hook>
+
+See new patch releases in the [releases page](https://github.com/dfint/df-steam-hook/releases) of the project.
+
+---
+
 ## Update 2022-12-23
 
 - Fixed crash on a global map, probably some other crashes are also fixed
